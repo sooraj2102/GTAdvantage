@@ -6,3 +6,5 @@ A recruitment based android app which provides users a platform to test their sk
 
 Done
 #Changes for HactoberFest 2019
+
+#HACKTOBERFEST2020
